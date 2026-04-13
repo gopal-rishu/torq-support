@@ -130,15 +130,17 @@ It will simulate a professional ticket support system used in IT services and cu
 
 Gopal Kumar
 
-Aspiring Data Analyst & Full Stack Developer
+ Software Developer
 
 Skills:
-Python
+HTML
+CSS
+JAVASCRIPT
 SQL
-Power BI
 Angular
 Node.js (learning)
 MongoDB (learning)
+Python
 
 ---
 
