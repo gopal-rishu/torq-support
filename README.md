@@ -1,59 +1,156 @@
-# LoginApp
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.24.
+# Torq Support
 
-## Development server
+Torq Support is a Ticket Generation and Support Management System built using the MEAN Stack (MongoDB, Express.js, Angular, Node.js).
 
-To start a local development server, run:
+This application helps organizations create, manage, and track support tickets efficiently. It provides a structured platform for handling customer issues, monitoring ticket status, and improving service workflow.
 
-```bash
+---
+
+## Tech Stack
+
+Frontend:
+
+* Angular
+* HTML
+* CSS
+* TypeScript
+
+Backend (Planned):
+
+* Node.js
+* Express.js
+
+Database (Planned):
+
+* MongoDB
+
+Tools:
+
+* VS Code
+* Git
+* GitHub
+* Postman
+
+---
+
+## Features
+
+### Authentication Module
+
+* User Login
+* Secure Authentication (JWT - planned)
+
+### Dashboard
+
+* Ticket statistics overview
+* Quick navigation
+
+### Ticket Management
+
+* Create Ticket
+* View Ticket List
+* Update Ticket Status
+* Delete Ticket
+* Track Ticket Progress
+
+### Future Features
+
+* Role Based Access (Admin/User)
+* Email Notifications
+* File Attachments in Ticket
+* Search & Filter Tickets
+* Activity Logs
+
+---
+
+## Project Structure (Planned)
+
+torq-support
+
+frontend (Angular)
+backend (Node + Express)
+database (MongoDB)
+
+---
+
+## Current Status
+
+Completed:
+
+* Login Page UI
+* Project Setup (Angular)
+* Initial UI Structure
+
+In Progress:
+
+* Dashboard UI
+* Ticket Module UI
+
+Planned:
+
+* Backend API development
+* MongoDB integration
+* Authentication system
+
+---
+
+## Installation
+
+Clone the repository
+
+git clone https://github.com/your-username/torq-support.git
+
+Go to project folder
+
+cd torq-support
+
+Install dependencies
+
+npm install
+
+Run Angular project
+
 ng serve
-```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+Open browser
 
-## Code scaffolding
+http://localhost:4200
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+---
 
-```bash
-ng generate component component-name
-```
+## Project Purpose
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+This project is created as a real-world full stack application to demonstrate skills in Angular and MEAN stack development.
 
-```bash
-ng generate --help
-```
+It will simulate a professional ticket support system used in IT services and customer support environments.
 
-## Building
+---
 
-To build the project run:
+## Author
 
-```bash
-ng build
-```
+Gopal Kumar
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+ Software Developer
 
-## Running unit tests
+Skills:
+HTML
+CSS
+JAVASCRIPT
+SQL
+Angular
+Node.js (learning)
+MongoDB (learning)
+Python
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+---
 
-```bash
-ng test
-```
+## Future Scope
 
-## Running end-to-end tests
+Complete MEAN stack implementation
+REST API development
+Authentication & Authorization
+Deployment on cloud
 
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+---
+>>>>>>> 216104f85db3b1192d090a317e72d41359ea6cab
